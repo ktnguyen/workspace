@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyFirstApp/MyFirstApp.iml" filepath="$PROJECT_DIR$/MyFirstApp/MyFirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SportsWhiteBoard/SportsWhiteBoard.iml" filepath="$PROJECT_DIR$/SportsWhiteBoard/SportsWhiteBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thenewboston/thenewboston.iml" filepath="$PROJECT_DIR$/thenewboston/thenewboston.iml" />
+    </modules>
+  </component>
+</project>
+
